@@ -1,6 +1,7 @@
 GFB Exercise
 - Latihan pemrograman setiap hari
 - Membuat platform dalam bentuk web atau mobile
-- Coba coba github 
+- github 
+- coba coba
 
 Commit 2 untuk new branch
