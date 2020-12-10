@@ -1,0 +1,4 @@
+GFB Exercise
+- Latihan pemrograman setiap hari
+- Membuat platform dalam bentuk web atau mobile
+- Coba coba github 
